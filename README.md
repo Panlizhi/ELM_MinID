@@ -21,9 +21,7 @@ datasets and nine benchmark datasets show that this method is superior to tradit
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
+![image](https://github.com/Panlizhi/ELM_MinID/blob/master/result_picture.png)
 
 ## Development setup
 
@@ -37,7 +35,3 @@ ELM_MinID.m
 * 1.0.0
     * Work is been created
 
-
-
-<!-- Markdown link & img dfn's -->
-[ELM_MinID]: https://github.com/yourname/yourproject/wiki
