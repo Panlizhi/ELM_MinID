@@ -123,7 +123,7 @@ for iter=1:nbIters
       V_last=V_now
    
    %Early stop
-   if iter>=2 && min(dJ)<=0.0001
+   if iter>=2 && max(dJ)<=0.001
        break
    end
   
