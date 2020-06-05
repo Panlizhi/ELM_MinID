@@ -1,6 +1,6 @@
 function [Output, TrainingTime, TestingTime, TrainingAccuracy, TestingAccuracy] = ELM_MID(train_x, train_y, test_x, test_y, Elm_Type, NumberofHiddenNeurons, ActivationFunction, yita, nbIters,sigma)
 %% Input:
-% train_x£º training input 
+% train_x:   training input 
 % train_y:   training output 
 % test_x:    testing input 
 % test_y:    testing output 
@@ -15,7 +15,7 @@ function [Output, TrainingTime, TestingTime, TrainingAccuracy, TestingAccuracy] 
 % yita: step size for gradient method
 % nbIters: number of iterations
 %
-%% Output: 
+%% Output:
 % Output: the predicted output
 % TrainingTime          - Time (seconds) spent on training ELM
 % TestingTime           - Time (seconds) spent on predicting ALL testing data
