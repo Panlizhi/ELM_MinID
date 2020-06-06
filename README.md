@@ -22,7 +22,10 @@ datasets and nine benchmark datasets show that this method is superior to tradit
 ## Usage example
 
 ![image](https://github.com/Panlizhi/ELM_MinID/blob/master/result_picture.png)
-
+![image](https://github.com/Panlizhi/ELM_MinID/blob/master/Snipaste_2020-06-05_17-51-31.png)
+![image](https://github.com/Panlizhi/ELM_MinID/blob/master/Snipaste_2020-06-05_17-50-18.png)
+![image](https://github.com/Panlizhi/ELM_MinID/blob/master/Snipaste_2020-06-05_17-50-48.png)
+![image](https://github.com/Panlizhi/ELM_MinID/blob/master/Snipaste_2020-06-05_17-51-02.png)
 ## Development setup
 
 Please run the code in matlab。
